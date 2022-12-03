@@ -13,6 +13,8 @@ part1 = "adventofcode2022.part1.main:run1"
 part1_2 = "adventofcode2022.part1.main:run2"
 part2 = "adventofcode2022.part2.main:run1"
 part2_2 = "adventofcode2022.part2.main2:run"
+part3 = "adventofcode2022.part3.main1:run"
+part3_2 = "adventofcode2022.part3.main2:run"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^7.2.0"
