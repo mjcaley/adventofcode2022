@@ -11,6 +11,8 @@ typer = "^0.7.0"
 [tool.poetry.scripts]
 part1 = "adventofcode2022.part1.main:run1"
 part1_2 = "adventofcode2022.part1.main:run2"
+part2 = "adventofcode2022.part2.main:run1"
+part2_2 = "adventofcode2022.part2.main2:run"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^7.2.0"
