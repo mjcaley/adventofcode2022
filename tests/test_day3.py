@@ -2,7 +2,7 @@ from io import StringIO
 
 import pytest
 
-from adventofcode2022.part3.rucksack import parse1, parse2
+from adventofcode2022.day3.rucksack import parse1, parse2
 
 
 @pytest.fixture

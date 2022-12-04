@@ -2,7 +2,7 @@ from io import StringIO
 
 import pytest
 
-from adventofcode2022.part1.calorie_parser import parse, top1, top3
+from adventofcode2022.day1.calorie_parser import parse, top1, top3
 
 
 @pytest.fixture

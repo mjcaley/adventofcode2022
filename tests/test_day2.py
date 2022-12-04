@@ -1,7 +1,7 @@
 from io import StringIO
 import pytest
 
-from adventofcode2022.part2.game import parse, parse2
+from adventofcode2022.day2.game import parse, parse2
 
 
 @pytest.fixture
