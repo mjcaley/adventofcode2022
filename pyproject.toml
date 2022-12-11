@@ -25,6 +25,8 @@ day7_1 = "adventofcode2022.day7.main1:run"
 day7_2 = "adventofcode2022.day7.main2:run"
 day8_1 = "adventofcode2022.day8.main1:run"
 day8_2 = "adventofcode2022.day8.main2:run"
+day9_1 = "adventofcode2022.day9.main1:run"
+day9_2 = "adventofcode2022.day9.main2:run"
 
 [tool.poetry.group.test.dependencies]
 pytest = "^7.2.0"
